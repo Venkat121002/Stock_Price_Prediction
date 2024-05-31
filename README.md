@@ -3,3 +3,7 @@ The art of forecasting stock prices has been a difficult task for many of the re
 > In this Project we choose linear regression for our analysis
 #### Opening Price
 The opening price is the value that each share has the opening price gives a good indication of where the stock will move during the day
+#### Closing Price
+An Closing Price is a stock's closing price on a given day
+#### Volume
+Volume is the number of shares traded an entire market during a given period of time
